@@ -1,0 +1,6 @@
+{
+  "name": "لانشر بسيط",
+  "description": "تطبيق لانشر أندرويد أنيق وبسيط وخفيف لتنظيم التطبيقات، مع شاشة رئيسية سريعة وبحث فوري ووضع البساطة النصي (Detox).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
